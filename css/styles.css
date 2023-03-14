@@ -5,28 +5,32 @@
 /* Changing the main font and background colour */
 
 body {
-	font-family: Raleway, sans-serif;
-	background-color: #fffcf8;
+	font-family: Agrandir;
+	background-color: #F1EBEA;
 }
 
 /* Changing the background colour for the header */
 
 header {
-	background-color: #000060;
+	font-family: "agrandir grand heavy";
+	background-color: #078C41
+;
 }
 
 /* Changing the background color for the navigation bar */
 
 .navbar {
-	background-color: #fff0e0;
+	background-color: #078C41;
 }
 
 /* Effect on social media buttons */
 
 footer a:hover {
-	opacity: .5;
+	opacity: .5
 }
-
+footer {
+	background-color: #F26E22;
+}
 /* Corporate navbar */
 
 #navbar-corporate a.active {
