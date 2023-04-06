@@ -13,9 +13,13 @@ body {
 
 header {
 	font-family: "agrandir grand heavy";
-	background-color: #078C41
-;
+	background-color: #078C41;
 }
+h2 {
+	color: #078C41;
+	font-family: Agrandir, "Agrandir Grand Heavy", "Agrandir Grand Light", "Agrandir Narrow", "Agrandir Thin", "Agrandir Tight", "Agrandir Wide Black", "Agrandir Wide Light"
+}
+
 
 /* Changing the background color for the navigation bar */
 
