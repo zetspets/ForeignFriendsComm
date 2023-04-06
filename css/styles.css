@@ -7,6 +7,7 @@
 body {
 	font-family: Agrandir;
 	background-color: #F1EBEA;
+	color: #813418;
 }
 
 /* Changing the background colour for the header */
@@ -18,6 +19,14 @@ header {
 h2 {
 	color: #078C41;
 	font-family: Agrandir, "Agrandir Grand Heavy", "Agrandir Grand Light", "Agrandir Narrow", "Agrandir Thin", "Agrandir Tight", "Agrandir Wide Black", "Agrandir Wide Light"
+}
+
+h6 {
+	color: #078C41;
+}
+
+td {
+	color: #813418;
 }
 
 
