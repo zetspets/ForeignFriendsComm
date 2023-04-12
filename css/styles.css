@@ -25,9 +25,12 @@ h6 {
 	color: #078C41;
 }
 
-td {
+td,th,tr,row {
 	color: #813418;
 }
+
+
+
 
 
 /* Changing the background color for the navigation bar */
