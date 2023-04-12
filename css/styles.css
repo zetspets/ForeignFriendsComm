@@ -5,7 +5,7 @@
 /* Changing the main font and background colour */
 
 body {
-	font-family: Agrandir;
+	font-family: Agrandir, "Agrandir Grand Heavy", "Agrandir Grand Light", "Agrandir Narrow", "Agrandir Thin", "Agrandir Tight", "Agrandir Wide Black", "Agrandir Wide Light";
 	background-color: #F1EBEA;
 	color: #813418;
 }
@@ -13,7 +13,7 @@ body {
 /* Changing the background colour for the header */
 
 header {
-	font-family: "agrandir grand heavy";
+	font-family: Agrandir, "Agrandir Grand Heavy", "Agrandir Grand Light", "Agrandir Narrow", "Agrandir Thin", "Agrandir Tight", "Agrandir Wide Black", "Agrandir Wide Light";
 	background-color: #078C41;
 }
 h2 {
